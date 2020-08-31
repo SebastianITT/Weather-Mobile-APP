@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashScreen">
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="602dp"
+        android:scaleType="fitStart"
+        android:src="@drawable/cloud" />
+
+    <TextView
+        android:textColor="@color/colorAccent"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="229dp"
+        android:gravity="center_horizontal"
+        android:padding="30dp"
+        android:text="Weather App"
+        android:textAlignment="center"
+        android:textSize="50dp" />
+
+
+
+</LinearLayout>

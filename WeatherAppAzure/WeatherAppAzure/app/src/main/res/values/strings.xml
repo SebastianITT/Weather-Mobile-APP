@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherAppAzure</string>
+    <string name="value">Text</string>
+    <string name="hint">Enter City</string>
+    <string name="str_connection">check internet connection</string>
+    <string name="sp_name">Weather App</string>
+    <string name="max_temp">Maximum Temprature</string>
+    <string name="min_temp">Minimum Temprature</string>
+    <string name="w_speed">Wind Speed</string>
+    <string name="w_direction">Wind Direction</string>
+    <string name="weather"> Weather Condition</string>
+    <string name="next_day">Next Day Weather</string>
+    <string name="change_Language">Change Language</string>
+
+
+
+</resources>

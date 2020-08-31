@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MétéoAppAzure</string>
+    <string name="value">Texte</string>
+    <string name="hint">Entrez la ville</string>
+    <string name="str_connection">vérifier la connexion Internet</string>
+    <string name="sp_name">Application météo</string>
+    <string name="max_temp">Température maximale</string>
+    <string name="min_temp">Température minimale</string>
+    <string name="w_speed">Vitesse du <vent></vent></string>
+    <string name="w_direction">Direction du vent</string>
+    <string name="weather">Les conditions météorologiques</string>
+    <string name="next_day">Météo du lendemain</string>
+    <string name="change_Language">changer de langue</string>
+
+
+</resources>
